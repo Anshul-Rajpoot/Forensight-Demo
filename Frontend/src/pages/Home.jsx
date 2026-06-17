@@ -91,7 +91,7 @@ export default function Home() {
 
          {/* DEVELOPER */}
 <div className={styles.cardBox}>
-  <div className={styles.cardTitle2}>👨‍💻 Developers</div>
+  <div className={styles.cardTitle2}>👨‍💻 Developer</div>
 
   <div className={styles.devRow}>
     <span>Anshul Rajpoot</span>
