@@ -98,10 +98,6 @@ export default function Home() {
     <span>2311401168</span>
   </div>
 
-  <div className={styles.devRow}>
-    <span>Ritesh Jat</span>
-    <span>2311401165</span>
-  </div>
 </div>
             
             
