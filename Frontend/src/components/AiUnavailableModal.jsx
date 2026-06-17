@@ -64,7 +64,7 @@ export default function AiUnavailableModal({ open, onClose }) {
 
         <div className={styles.buttons}>
           <a
-            href="https://github.com/Anshul-Rajpoot/FORENSIGHT---Criminal-Face-Generation-and-Recognition-System"
+            href="https://github.com/Anshul-Rajpoot/FORENSIGHT---Criminal-Face-Generation-and-Recognition-System.git"
             target="_blank"
             rel="noreferrer"
             className={styles.githubBtn}
